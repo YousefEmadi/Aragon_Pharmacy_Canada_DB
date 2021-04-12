@@ -1,0 +1,9 @@
+ClassID,Description,Cost,Renewal,Required,Provider
+1,Adult CPR,15.00,0,1,Red Cross
+2,Child/Infant CPR,15.00,0,1,Red Cross
+3,Adult CPR Recertification,10.00,1,1,Red Cross
+4,First Aid,15.00,0,0,Red Cross
+5,Defibrillator Use,25.00,1,1,Johnston Health Systems
+6,Child/Infant CPR Recertification,10.00,1,1,Red Cross
+7,Nutritional Supplements,25.00,0,0,Food Co-op
+8,Yoga,50.00,0,0,Yoga Center
