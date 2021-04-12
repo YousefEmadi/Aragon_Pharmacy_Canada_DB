@@ -1,6 +1,0 @@
-JobID,Title
-1,Owner
-2,Pharmacist
-3,Technician
-4,Cashier
-5,Manager

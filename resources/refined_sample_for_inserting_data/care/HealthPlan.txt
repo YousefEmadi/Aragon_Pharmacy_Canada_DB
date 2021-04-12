@@ -1,7 +1,0 @@
-PlanID,PlanName,Address,City,Prov,PostalCode,Phone,Days,WebSite
-0002-ZIPA-1,JSS Consulting Group,9000 65 Street S 398,Montreal,QC,H4E3B2,4505554144,60,
-00087-98A,PruHealth of Canada,3887 97 Street SW,Montreal,QC,H4E3B7,5145412652,30,
-8AG-GGJ,Benefits Group of Alberta,10087 124 Street NW 205,Montreal,QC,H4E3T3,5145335542,30,
-98730-987,Alberta Health Benefits,9876 109 Avenue SW 200,Montreal,QC,H4E3B7,4502212121,90,
-HKJ-1000,Health Group Inc.,10098 Whiteland Road N,Montreal,QC,H4E3B7,4507785144,0,
-OP-8000J,Alberta Coverage for Seniors,98762 105 Avenue SE 105,Montreal,QC,H4E2H7,5142624200,30,www.health.gov.qc.ca
