@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Aragon_Team_Proj_Final_Version">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="NILOO:NILOO\Joseph">
+          <Created>2021-04-12T13:28:06.0703762-04:00</Created>
+          <Type>SQL</Type>
+          <Server>NILOO</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01_aragon_database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_aragon_database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_aragon_schemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_aragon_schemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_aragon_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03_aragon_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04A_aragon_uq.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04A_aragon_uq.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04B_aragon_fk.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04B_aragon_fk.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04C_aragon_ck.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04C_aragon_ck.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04D_aragon_ix_df.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04D_aragon_ix_df.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_aragon_triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_aragon_triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_aragon_insert_data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_aragon_insert_data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Requested_objects_definition.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Requested_objects_definition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Execute_objects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NILOO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NILOO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_Execute_objects.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

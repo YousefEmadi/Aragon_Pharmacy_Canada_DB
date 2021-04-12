@@ -1,0 +1,4 @@
+EHID,EmpFirst,EmpMI,EmpLast,SIN,DOB,StartDate,EndDate,Address,City,Prov,PostalCode,JobID,Memo,Phone,Cell,Salary,HourlyRate,Review
+1,Claudio,G,Montes,522389217,5/2/1972 0:00:00,2/7/2010 0:00:00,12/1/2016 0:00:00,6587 187th St,Montreal,QC,H4E3B7,3,Entered graduate program,5144875623,5144872644,0.00,9.80,
+2,Tyler,A,Borley,701432589,6/12/1982 0:00:00,11/15/2007 0:00:00,9/1/2015 0:00:00,303 7905th 96 St,Montreal,QC,H4E3H3,4,,5144375145,5144373398,0.00,7.80,
+3,Rebecca,M,Larousse,601498440,6/24/1979 0:00:00,1/4/2009 0:00:00,8/15/2016 0:00:00,110 3rd Ave W,Montreal,QC,H4E2H4,4,Left for college,5148935877,5148931255,0.00,8.00,

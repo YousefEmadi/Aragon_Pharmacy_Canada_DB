@@ -1,0 +1,31 @@
+DIN,Name,Generic,Description,Unit,Dosage,DosageForm,Cost,Price,Fee,Interactions,Supplier
+00094684,Avatocin,0,Allergies,Pill,100,mg,1.25,1.40,12.00,Alcohol,TJR Labs
+02213200,Clonazepam,0,Epiliepsy,Pill,4,mcg,1.10,1.20,10.00,,TJR Labs
+06452000,Warfarin Sodium,1,Bronchitis,Pill,4,mg,1.35,1.40,12.00,,Swinton Labs
+09753100,Acebutolol hydrochloride,0,Arthritis,Pill,400,mg,1.10,1.10,12.00,,Pulman Labs
+09785431,Dseurton,1,High blood pressure,Pill,175,mg,1.15,1.20,12.00,Sedatives,Cranston Pharmaceuticals
+10513452,Ampicillin,1,Antibiotic,Pill,250,mg,1.40,1.45,10.00,Calcium,Inundate Pharmaceuticals
+13876452,Levothyroxine,1,Thyroid disorders,Pill,25,mg,1.35,1.40,10.00,,Vacer Labs
+15646543,Didanosine,1,Sinus infection,Pill,200,mg,1.11,1.12,11.00,,Cranston Pharmaceuticals
+15799522,Tvalaxec,1,Antihistamine,Bottle,2,tsp,0.90,1.00,12.00,Alcohol,Bistonson Labs
+15799532,Rivastigmine tartrate,1,ADHD,Pill,4.4,mg,0.95,1.05,12.00,Sedatives,Wilper Labs
+19876532,Dyotex,0,Tonsillitis,Bottle,2,tsp,0.95,1.05,12.00,,Frankmeir Pharmaceuticals
+22468753,Oxaprozin,1,Anti-inflammatory,Pill,1200,mg,1.19,1.25,12.00,,Zinkemeyer Pharmaceuticals
+23653320,Albuterol Sulfate,1,Asthma,Pill,2,mg,0.90,0.95,12.00,,Opherman Labs
+29456789,Phalastat,0,Allergies,Bottle,1,tsp,1.55,1.60,11.00,,Swinton Labs
+35921324,Haloperidol,0,Diuretic,Pill,6,mcg,1.25,1.30,10.00,,Valfer Pharmaceuticals
+46135492,Epronix,0,Pain,Pill,500,mg,1.42,1.50,11.00,Grapefruit,Vacer Labs
+54657999,Nvalax,1,Depression,Pill,200,mg,0.89,0.90,12.00,Grapefruit,Pulman Labs
+54976530,Montelukast sodium,1,Acne,Pill,10,mcg,0.89,0.90,10.00,Alcohol,Gilman Labs
+55784652,Hyometadol,0,Asthma,Bottle,2,tsp,1.25,1.35,10.00,,Ranston Pharmaceuticals
+55976542,Syocil,1,Diabetes,Pill,120,mg,1.08,1.10,12.00,,Kwekker Pharmaceuticals
+57416597,Quentix,1,High blood pressure,Pill,50,mg,1.21,1.25,11.00,Alcohol,Esterman Pharmaceuticals
+57953277,Rizatriptan Benzoate,0,Pain,Pill,6,mg,1.08,1.10,10.00,,Gilman Labs
+64000154,Tiron,0,Beta blocker,Pill,150,mcg,1.27,1.30,10.00,,Opherman Labs
+68956674,Diazapam,1,Anxiety,Pill,5,mg,1.05,1.12,11.00,,Esterman Pharmaceuticals
+75465331,Almotriptan,1,Conjunctivitis,Pill,6.25,mg,0.86,0.87,12.00,,Dweller Pharmaceuticals
+79846512,Glimepiride,1,Diabetes,Pill,2,mg,0.88,0.90,10.00,,Nerman Pharmaceuticals
+81642351,Tolbutamide,0,Bacterial infections,Pill,2,mcg,0.88,0.90,10.00,,Kwekker Pharmaceuticals
+82956435,Myobuterol,1,Antibiotic,Bottle,1,tsp,1.55,1.60,12.00,Tranquilizers,Hiller Pharmaceuticals
+97865310,Xeroflarol,1,Acid reflux,Bottle,1,tsp,1.00,1.05,11.00,,Wilper Labs
+98715233,Cefixime,1,Antihistamine,Pill,400,mg,1.55,1.60,12.00,Sedatives,Ranston Pharmaceuticals
